@@ -1,0 +1,67 @@
+.nav {
+  background-color: red;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+a {
+  color: white;
+  padding: 10px;
+  margin-right: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: blue;
+}
+a:hover {
+  background-color: white;
+  color: red;
+}
+.center1 {
+  display: flex;
+  justify-content: center;
+}
+.center2 {
+  margin:1% auto;
+  margin-right: auto;
+  margin-left: auto;
+  width: 21%;
+  padding-top: 11px;
+}
+
+label {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+input {
+  padding: 10px;
+  height: 15px;
+  width: 300px;
+}
+
+input:hover {
+  border-color: red;
+}
+
+button {
+  padding: 10px;
+  color: white;
+  background-color: orangered;
+  border: none;
+  font-size: larger;
+  height: 40px;
+  width: 323px;
+  text-align: center;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button:hover {
+  opacity: 0.9;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+
